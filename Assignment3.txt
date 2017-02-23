@@ -1,0 +1,45 @@
+Linux Commands:
+
+1.pwd:Print Working Directory.It will show the name of the current working directory.
+eg:pwd
+2.vi:It starts the visual mode for editing a file.
+eg:vi filename
+
+3.touch:Creates an empty file with a specified name.
+eg:touch filename.txt
+
+4.mkdir:Make Directory.This command is used to make a directory.
+eg:mkdir newdir
+
+5.rm:Remove.This command is used to remove all files.
+eg:rm newdir.txt
+
+6.ls:List.This command is used to list the files.
+eg:ls -a
+
+7.echo:It is used to output status text to the screen or a file.
+eg:echo hello hii.
+
+8.cat:It is used to view,create,concat multiple files at the same time.
+eg:cat newdir.txt
+
+9.who:It is used to display who logged on to the system.
+eg:who
+
+10.cd:ChangeDirectory.This command is used to change directory.
+eg:cd newdir/newwwdir
+
+11.date:This shows the current date and time.
+eg:date
+
+12.cal:Calendar.It shows a calendar of current month.
+eg:cal -1
+
+13.mv:Move.This command is used to move or rename files.
+eg:mv newdir.txt destdirectoryname
+
+14.cp:Copy.This commend is used to copy files into directory.
+eg:cp file1 file2
+
+15.which:This command displays full path for each of the given arguments.
+eg:which sh
